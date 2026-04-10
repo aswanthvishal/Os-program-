@@ -1,8 +1,5 @@
-# OS Programs
-
-This repository contains Operating System program PDFs.
-
-## Files:
+OS Programs 
+Files:
 - os1.pdf
 - os2.pdf
 - os3.pdf
